@@ -1,4 +1,4 @@
-#📊 Real-Time Sales Dashboard – Google Looker Studio<br>
+#📊 Real-Time Sales Dashboard – Google Looker Studio https://lookerstudio.google.com/s/uttNU1Vl2yA<br>
 <br>
 This project delivers an interactive and real-time sales dashboard using Google Looker Studio, designed to empower stakeholders with actionable insights. It visualizes complex sales data in an accessible format, enabling effective monitoring of performance and strategic decision-making in marketing, sales, and customer management.<br>
 <br>
